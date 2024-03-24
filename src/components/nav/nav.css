@@ -1,0 +1,20 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  margin: 0;
+  padding: 0;
+}
+
+ul > li * {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}

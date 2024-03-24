@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Suzuki",
+    "imageURL": "https://www.carlogos.org/logo/Suzuki-logo-6500x1400.png"
+  },
+  {
+    "name": "Tesla",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png"
+  },
+  {
+    "name": "Ford",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg"
+  },
+  {
+    "name": "Jeep",
+    "imageURL": "https://1000logos.net/wp-content/uploads/2018/04/Jeep-logo-500x281.png"
+  },
+  {
+    "name": "Toyota",
+    "imageURL": "https://www.carlogos.org/car-logos/toyota-logo-2020-europe-640.png"
+  },
+  {
+    "name": "Honda",
+    "imageURL": "https://www.carlogos.org/car-logos/honda-logo-2000-full-640.png"
+  },
+  {
+    "name": "Mazda",
+    "imageURL": "https://www.carlogos.org/car-logos/mazda-logo-2018-vertical-640.png"
+  },
+  {
+    "name": "BMW",
+    "imageURL": "https://www.carlogos.org/car-logos/bmw-logo-2020-gray.png"
+  }
+]
